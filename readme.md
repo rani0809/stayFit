@@ -5,7 +5,6 @@ As we know Software Engineers spend a lot of time on Laptops which affect their 
 ## Demo
 ![Demo Photo](./demoPhoto.png)
 
-![Demo](./demo.gif)
 
 
 ## Steps to Install
